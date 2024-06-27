@@ -1,3 +1,6 @@
+![Hackathon Strategies](https://imgur.com/a/RW80Zon)
+
+
 [Video Link](https://youtu.be/t-JJgTRf3Ms)
 
 If you're interested in learning my strategies for winning hackathons, including a full stack tutorial on a real project that won me $5,000, visit the platform: [Bysyntax](https://bysyntax.com).
