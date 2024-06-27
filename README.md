@@ -1,4 +1,4 @@
-![Hackathon Strategies](https://imgur.com/a/RW80Zon)
+![Hackathon Strategies](https://imgur.com/a/RW80Zon.png)
 
 
 [Video Link](https://youtu.be/t-JJgTRf3Ms)
