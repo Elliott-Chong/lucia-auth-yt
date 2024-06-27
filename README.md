@@ -1,5 +1,4 @@
-![Hackathon Strategies](https://imgur.com/a/RW80Zon.png)
-
+![image](https://github.com/Elliott-Chong/lucia-auth-yt/assets/77007117/4e9823a5-01d2-4771-9283-d0715ad83bb7)
 
 [Video Link](https://youtu.be/t-JJgTRf3Ms)
 
